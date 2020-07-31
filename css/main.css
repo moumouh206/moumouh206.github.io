@@ -324,7 +324,7 @@ a:focus, button:focus, .btn:focus,
 }
 
 #navigation.menu-two .navbar-nav>li>a {
-    padding: 28px 18px;
+    padding: 28px 16px;
     display: block;
     position: inherit !important;
 }
@@ -488,7 +488,7 @@ ul.sub-menu {
 }
 
 .home-banner-one .banner-content {
-    background-image: url(../images/bg/banner.jpg);
+    /*background-image: url(../images/bg/banner.jpg);*/
     background-color: #e7e7e7;
     position: relative;
     background-position: center;
@@ -496,7 +496,7 @@ ul.sub-menu {
 }
 
 .home-two #home-banner {
-    background-image: url(../images/bg/2.png);
+    /*background-image: url(../images/bg/2.png);*/
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -508,16 +508,16 @@ ul.sub-menu {
 }
 
 .banner-info h2 {
-    font-size: 128px;
+    font-size: 95px;
     margin-top: 0;
     line-height: 92px;
     margin-left: -8px;
 }
 
 .banner-info h3 {
-    font-size: 16px;
+    font-size: 26px;
     text-transform: uppercase;
-    letter-spacing: 26px;
+    letter-spacing: 28px;
 }
 
 /* Home Two  */
