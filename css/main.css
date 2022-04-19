@@ -882,7 +882,11 @@ ul.sub-menu {
 }
 
 .portfolio-info a:hover {
-  color: #bb460d;
+  color: #f5d2c0;
+}
+.portfolio-info p {
+  color: #fff;
+  font-size: medium;
 }
 
 /*Magnific-popup overwrite CSS*/
